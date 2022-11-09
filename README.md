@@ -9,10 +9,10 @@ The study reports the genomic characterization at the single allele level upon W
 ## Data summary 
 | File name  | Download | Description |
 | ------------- | ------------- | ------------- |
-| **`./data/samples_info_file.txt`**  | [TXT](https://github.com/demichelislab/patient_derived_bladder_cancer_organoids/raw/main/data/samples_info_file.txt) | sample info file with per-sample ids along with genomics-derived metrics and statistics. |
-| **`./data/samples_copy_number_segments.txt`** | [TXT](https://github.com/demichelislab/patient_derived_bladder_cancer_organoids/raw/main/data/samples_copy_number_segments.txt) | complete list of copy-number segments per sample along with statistics obtained as output from the SPICE pipeline (1). |
-| **`./data/samples_somatic_point_mutations.txt`** | [TXT](https://github.com/demichelislab/patient_derived_bladder_cancer_organoids/blob/main/data/samples_somatic_point_mutations.txt) | complete list of somatic point mutations comprising annotation performed by VEP (2) |
-|  **`./data/samples_per_gene_allele_specific_cn_and_point_mutations.txt`** | [TXT](https://github.com/demichelislab/patient_derived_bladder_cancer_organoids/blob/main/data/samples_per_gene_allele_specific_cn_and_point_mutations.txt) | per-sample, per-gene summary of allele-specific copy-number mutations and point mutations |
+| **`./data/samples_info_file.txt`**  | [TXT](https://github.com/demichelislab/BLCa_organoids_data/raw/main/data/samples_info_file.txt) | sample info file with per-sample ids along with genomics-derived metrics and statistics. |
+| **`./data/samples_copy_number_segments.txt`** | [TXT](https://github.com/demichelislab/BLCa_organoids_data/raw/main/data/samples_copy_number_segments.txt) | complete list of copy-number segments per sample along with statistics obtained as output from the SPICE pipeline (1). |
+| **`./data/samples_somatic_point_mutations.txt`** | [TXT](https://github.com/demichelislab/BLCa_organoids_data/blob/main/data/samples_somatic_point_mutations.txt) | complete list of somatic point mutations comprising annotation performed by VEP (2) |
+|  **`./data/samples_per_gene_allele_specific_cn_and_point_mutations.txt`** | [TXT](https://github.com/demichelislab/BLCa_organoids_data/blob/main/data/samples_per_gene_allele_specific_cn_and_point_mutations.txt) | per-sample, per-gene summary of allele-specific copy-number mutations and point mutations |
 
 
 ## References 
